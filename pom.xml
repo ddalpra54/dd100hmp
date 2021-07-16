@@ -7,7 +7,7 @@
 		<groupId>io.helidon.applications</groupId>
 		<artifactId>helidon-mp</artifactId>
 		<version>2.2.1</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
 	<groupId>org.dalpra</groupId>
 	<artifactId>dd100hmp</artifactId>
@@ -39,7 +39,7 @@
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
-			<version>42.2.18</version>
+			<version>42.2.22.jre7</version>
 			<scope>runtime</scope>
 		</dependency>
 
